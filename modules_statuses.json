@@ -1,3 +1,5 @@
 {
-    "User": true
+    "User": true,
+    "Company": true,
+    "Team": true
 }
